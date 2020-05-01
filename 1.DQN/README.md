@@ -1,2 +1,2 @@
 DQN Result:
-![lunar_lander](/lunar_lander.png)
+![lunar_lander](imgs/lunar_lander.png)
