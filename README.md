@@ -15,12 +15,12 @@ This repo aims to implement Deep Reinforcement Learning algorithms using [Pytorc
 
 | No. | Status | Algorithm | Paper |
 | --- | ------- | --------- | ----- |
-| 1 | :white_check_mark:  | [DQN](/1.DQN) | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) |
+| 1 | :check_mark:  | [DQN](/1.DQN) | [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) |
 | 2 | :white_check_mark:  | [Double DQN](/2.Double%20DQN) | [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) |
 | 3 | :white_check_mark:  | [Dueling DQN](/3.Dueling%20DQN) | [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581) |
 | 4 | :white_check_mark: | [REINFORCE](/4.REINFORCE) | [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) |
 | 5 | <ul><li>- [ ] </li></ul>  | A3C + GAE | [High Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438) |
-| 6 | <ul><li>- [ ] </li></ul> | A2C | [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) |
+| 6 | :white_check_mark: | [A2C](/6.A2C) | [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) |
 | 7 | <ul><li>- [ ] </li></ul> | DPG | [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf) |
 | 8 | <ul><li>- [ ] </li></ul>  | DDPG | [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971) |
 | 9 | <ul><li>- [ ] </li></ul>  | TRPO | [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) |
