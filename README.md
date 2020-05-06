@@ -24,7 +24,7 @@ This repo aims to implement Deep Reinforcement Learning algorithms using [Pytorc
 | 7 | <ul><li>- [ ] </li></ul> | DPG | [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf) |
 | 8 | <ul><li>- [ ] </li></ul>  | DDPG | [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971) |
 | 9 | <ul><li>- [ ] </li></ul>  | TRPO | [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) |
-| 10 | <ul><li>- [ ] </li></ul>  | PPO | [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) |
+| 10 | :heavy_check_mark: | [PPO](/10.PPO) | [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) |
 | 11 | <ul><li>- [ ] </li></ul> | ACTKR |  |
 | 12 | <ul><li>- [ ] </li></ul>  | SAC | [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf) |
 | 13 | <ul><li>- [ ] </li></ul>  | SAC Alpha | [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/pdf/1812.05905.pdf) |
