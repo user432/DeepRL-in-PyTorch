@@ -26,7 +26,7 @@ This repo aims to implement Deep Reinforcement Learning algorithms using [Pytorc
 | 9 | <ul><li>- [ ] </li></ul>  | TRPO | [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) |
 | 10 | :heavy_check_mark: | [PPO](/10.PPO) | [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) |
 | 11 | <ul><li>- [ ] </li></ul> | ACTKR |  |
-| 12 | <ul><li>- [ ] </li></ul>  | SAC | [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf) |
+| 12 | :heavy_check_mark:  | [SAC](/12.SAC) | [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf) |
 | 13 | <ul><li>- [ ] </li></ul>  | SAC Alpha | [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/pdf/1812.05905.pdf) |
 | 14 | <ul><li>- [ ] </li></ul>  | TD3(Twin Delayed DDPG) | [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477) |
 
