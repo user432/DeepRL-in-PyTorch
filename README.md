@@ -22,7 +22,7 @@ This repo aims to implement Deep Reinforcement Learning algorithms using [Pytorc
 | 5 | <ul><li>- [ ] </li></ul>  | A3C + GAE | [High Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438) |
 | 6 | :heavy_check_mark: | [A2C](/6.A2C) | [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) |
 | 7 | <ul><li>- [ ] </li></ul> | DPG | [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf) |
-| 8 | <ul><li>- [ ] </li></ul>  | DDPG | [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971) |
+| 8 | :heavy_check_mark: | [DDPG](/8.DDPG) | [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971) |
 | 9 | <ul><li>- [ ] </li></ul>  | TRPO | [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) |
 | 10 | :heavy_check_mark: | [PPO](/10.PPO) | [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) |
 | 11 | <ul><li>- [ ] </li></ul> | ACTKR |  |
