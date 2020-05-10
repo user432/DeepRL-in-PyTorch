@@ -31,14 +31,14 @@ This repo aims to implement Deep Reinforcement Learning algorithms using [Pytorc
 | 14 | :heavy_check_mark:  | [TD3(Twin Delayed DDPG)](/14.TD3) | [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477) |
 
 
-### 3.Project Dependencies
+## 3.Project Dependencies
 
 - Python >=3.6
 - PyTorch >= 1.3.1
 - OpenAI Gym
 
 
-### 4.Run
+## 4.Run
 
 Each algorithm is implemented in a single package including:
 ```
@@ -48,7 +48,7 @@ main.py --A minimal executable example for algorithm
 You can run algorithm from the  `main.py` w.r.t each algorithm's folder
 - You can simply type `python main.py --help` in the algorithm package to view all parameters.
 
-### 5.References
+## 5.References
 
 - [Berkeley Deep RL](http://rll.berkeley.edu/deeprlcourse/)
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
